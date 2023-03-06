@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="18" passed="17" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[execute]]>
+    </line>
+    <line>
+      <![CDATA[VIDEO]]>
+    </line>
+    <line>
+      <![CDATA[VIDEO]]>
+    </line>
+    <line>
+      <![CDATA[VIDEO]]>
+    </line>
+    <line>
+      <![CDATA[VIDEO]]>
+    </line>
+    <line>
+      <![CDATA[VIDEO]]>
+    </line>
+    <line>
+      <![CDATA[pic]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+    <line>
+      <![CDATA[vid]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-04-21T00:28:49 IST" name="Default suite" finished-at="2022-04-21T00:28:49 IST" duration-ms="187">
+    <groups>
+    </groups>
+    <test started-at="2022-04-21T00:28:49 IST" name="Default test" finished-at="2022-04-21T00:28:49 IST" duration-ms="187">
+      <class name="Testng.Test2">
+        <test-method signature="chat()[pri:-6, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="chat" finished-at="2022-04-21T00:28:49 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[execute]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- chat -->
+        <test-method signature="video()[pri:-3, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="video" finished-at="2022-04-21T00:28:49 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VIDEO]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- video -->
+        <test-method signature="video()[pri:-3, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="video" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VIDEO]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- video -->
+        <test-method signature="video()[pri:-3, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="video" finished-at="2022-04-21T00:28:49 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VIDEO]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- video -->
+        <test-method signature="video()[pri:-3, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="video" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VIDEO]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- video -->
+        <test-method signature="video()[pri:-3, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="video" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[VIDEO]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- video -->
+        <test-method signature="pic()[pri:0, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="pic" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[pic]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pic -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+        <test-method signature="vid()[pri:2, instance:Testng.Test2@96def03]" started-at="2022-04-21T00:28:49 IST" name="vid" finished-at="2022-04-21T00:28:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- vid -->
+      </class> <!-- Testng.Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
